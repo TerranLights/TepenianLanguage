@@ -13,4 +13,6 @@ The language is derived through its history, not assembled at once.
 7. **Federation-era use.** Spread as the international robot language and then the national language; registers and per-region variation develop (`language/registers/`, `language/dialects/`).
 8. **Mars-era stage (later, optional).** The language as it later changes; the Falkland-era form becomes "Middle Hawaiian."
 
+**Revision, 2026-10-31 (C-13 Language timeline: Hawaiian to Tepenian; D-21 Targets).** The Falkland-era standard (step 6) is still a required target, but it is now the base of the next stage: over the Second Interwar (2564 to 2812) the language takes in many more languages and becomes Tepenian, with official unification probably after Amundsen Tower (C-15). **Classical Tepenian, as spoken at the Long Night War (2812), is the main primary target.** Steps 7 and 8 above will be reworked once the details in Q-15 are settled. Source languages for the later stage are in `06_Domains_and_Later_Stage.md`.
+
 **Checks at each stage.** Is every change motivated by something real (contact, ease of articulation, analogy, prestige)? Is the stage plausible in its time span? Does the result contradict any canon in `CANON.md` or the GDD?

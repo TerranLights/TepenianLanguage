@@ -18,7 +18,7 @@ Study real pidgins and creoles (`real_world_analogs/`): how pidgins form, stabil
 Decide, with the developer, which source language governs which levels and domains (`synthesis_method/02_Layering_Table.md`) and which language supplies the grammatical frame.
 
 ## Phase 5 — Stage-by-stage derivation *(not started)*
-Derive the language through its stages: contact pidgin, stabilized pidgin, creole, regularized standard (Falkland era), then Federation-era usage. Record sound changes and grammaticalization in `language/` and the story of each stage in `history/`.
+Derive the language through its stages: contact pidgin, stabilized pidgin, creole, regularized standard (Falkland era, Hawaiian), then the Second Interwar's widening into Tepenian and Classical Tepenian (2812), the main primary target (D-21 Targets), then Federation-era usage. Record sound changes and grammaticalization in `language/` and the story of each stage in `history/`.
 
 ## Phase 6 — Core language build *(not started)*
 Phonology, orthography, morphology, syntax, core lexicon, registers, dialects, pragmatics. Every item provenance-tagged.

@@ -4,6 +4,8 @@ One folder per source language, created when analysis of that language starts (c
 
 **Build order (D-19 Build order: English and Japanese first).** English and Japanese are the primary pair and are worked out first, together; then the layers of Tagalog, Ilocano, Spanish (Mexican) and Korean go on top, in an order still to be decided. This mirrors how English's two primary contributing languages are French and Old Saxon/German.
 
+**Later stage (C-13 Language timeline: Hawaiian to Tepenian).** The sources above feed the Hawaiian stage, through the Falkland Treaty. Over the Second Interwar the language turns into Tepenian by taking in many more languages; the developer's list and the reasons are in `../synthesis_method/06_Domains_and_Later_Stage.md` (proposed, with open questions Q-16). They are not roster entries yet.
+
 **Status as checked 2026-10-30** against `slang-synthesis` (read-only; checked again after the Spanish commit 2c644e7 on 2026-10-30; the real Hawaiian extraction and several `grammar_logic/` folders were still uncommitted there). "Extracted" means files in that repo's `datasets/<Language>/established/`; nothing is analyzed yet in any language (no `analysis/` or `synthesized/` files there), and nothing is absorbed into this repo yet (D-9 Extraction in slang-synthesis, absorption here).
 
 **Role vocabulary.** *Core:* a primary source of the pidgin. *Supplementary:* a secondary source. *Substrate:* the language of the earlier population underlying the contact. *Adstrate:* a neighboring influence. *Open:* not yet decided. *Excluded:* ruled out, with the reason.

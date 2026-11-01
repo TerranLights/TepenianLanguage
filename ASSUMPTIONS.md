@@ -56,5 +56,6 @@ The future cannot be predicted in enough detail to derive a language from it, so
   1. *Era naming if there is a Jupiter era.* The canon's naming rule is by vantage point (Modern, Middle, Ancient). Does it need extending, and if so how?
   2. *Does a daughter language count?* If a later form is a separate language, does this repo give it its own name, or call every stage a form of Modern Hawaiian from its own vantage?
   3. *Scope.* How much of the later divergence does this repo model, versus only the Falkland-era standard and the Federation era?
+  4. *Starting point (added 2026-10-31).* With Tepenian and Classical Tepenian now canon (C-13, C-14), is the base for the later divergence Classical Tepenian (2812) and not the Falkland-era standard?
 - **Research lead (unverified):** historical accounts of how Latin diverged into the Romance languages, as an analog for long-term divergence; to be checked against real sources and recorded under `real_world_analogs/` if used.
 - **Affects:** `synthesis_method/01_Pipeline.md` (stages 6 to 8), the dialects folder, and the long-term reach of `history/`.

@@ -2,7 +2,7 @@
 
 How Modern Hawaiian assigns source languages to levels and domains, the way 2026 English assigns French to higher register, Greek to mental contemplation, and German to the common core.
 
-**Status: empty. To be filled with the developer after Phase 2 and Phase 3.** No row below is a decision.
+**Status: empty. To be filled with the developer after Phase 2 and Phase 3.** No row below is a decision. The developer's early domain ideas (2026-10-31) are recorded separately in `06_Domains_and_Later_Stage.md`.
 
 **Input:** the developer's diagram of English's source layers, recorded in `04_English_Source_Layer_Diagram.md`. Per D-18 Source layers as ways of thinking, a row states both the governing source and the way of thinking it brings, in grammar as well as vocabulary, and the rows themselves come from the language's own areas, not from English's. The rows below are placeholders from the first draft.
 

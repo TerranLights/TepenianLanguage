@@ -15,7 +15,7 @@ Once Tepenian Hawaiian is formulated, structured and functional as a learnable l
 
 ## Settled (developer, 2026-10-26; D-17 Translation method and target)
 1. **Source text:** translate each book from its own original language, because that is how real-world book translations are usually done.
-2. **Target stage:** the Falkland-era standard (about 2564), as a base for later extrapolation into the Modern Hawaiian of the Mars era, and perhaps the Jupiter era (see "Long-term divergence" in `ASSUMPTIONS.md`).
+2. **Target stage (revised 2026-10-31 by D-21 Targets: the main target is now Classical Tepenian at 2812; translating into Hawaiian, the Falkland-era standard, remains possible; the original answer follows):** the Falkland-era standard (about 2564), as a base for later extrapolation into the Modern Hawaiian of the Mars era, and perhaps the Jupiter era (see "Long-term divergence" in `ASSUMPTIONS.md`).
 3. **Reader:** an in-universe reader, with many books at many registers and levels of complexity so a real learner of any skill level has something at the right level to practice reading comprehension.
 4. **Output form:** a combination of stand-alone books and parallel text, with stand-alone books predominant.
 5. **First book:** Aesop's *Fables*, because the language is very simple and accessible and the collection is large.
