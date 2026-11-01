@@ -3,7 +3,7 @@
 The developer's own book list is `README.md` in this folder. This file holds the plan around it: why, when, how, what is settled and what is still open. Written by Claude on 2026-10-26 from the developer's note and answers; rebuilt on 2026-10-26 after a README edit overwrote the first version. Anything marked PROPOSED is for the developer to decide.
 
 ## Purpose and timing
-Once Tepenian Hawaiian is formulated, structured and functional as a learnable language, public-domain books will be translated into it (D-16 Public-domain translations planned). This comes **after** the core language build (Phase 6 in `ROADMAP.md`, where it is Phase 11). Nothing is translated yet, and nothing should be started before the core language exists.
+Once the Tepenian language is formulated, structured and functional as a learnable language, public-domain books will be translated into it (D-16 Public-domain translations planned). This comes **after** the core language build (Phase 6 in `ROADMAP.md`, where it is Phase 11). Nothing is translated yet, and nothing should be started before the core language exists.
 
 **Vantage point.** The same language is "Modern Hawaiian" from the Federation era and "Middle Hawaiian" from the Mars era (canon item C-8 Era names). Every translation says which stage of the language it targets. The target is the Falkland-era standard, about 2564 (D-17 Translation method and target).
 
@@ -40,7 +40,7 @@ Original languages as I understand them (to be confirmed per book against a cata
 ## Reference translations (check readings), added 2026-10-26
 Because each book is translated from its original language (D-17), a published translation can serve as a **reference for checking understanding of the original**, not as the base text.
 - ***The Art of War*:** the developer suggests Thomas Cleary's English translation as a basis of reference. Library and retailer listings show several editions (a 1983 hardcover listed under another publisher, and Shambhala editions listed under 1998, 2003, 2005 and 2019); **the developer owns a copy published in 1991** (2026-10-26), an edition my search did not list, so its publisher, title page and any commentary are still to be recorded from the book itself. It is a physically small pocket edition; whether it carries the complete translation, or any commentary, is to be checked against a fuller edition. That owned copy is the edition to use.
-- **Copyright caution (to verify):** a modern translation is the translator's own protected work, so it is almost certainly not in the public domain. It may be read and used privately to check a reading. The Tepenian Hawaiian text must come from the Chinese original, not from Cleary's English wording, and none of Cleary's text is copied into this repo beyond short quotation with citation (repo rule 2).
+- **Copyright caution (to verify):** a modern translation is the translator's own protected work, so it is almost certainly not in the public domain. It may be read and used privately to check a reading. The Tepenian-language text must come from the Chinese original, not from Cleary's English wording, and none of Cleary's text is copied into this repo beyond short quotation with citation (repo rule 2).
 - **Where it fits:** this is one answer to open point 2 below (how to check readings of original-language texts). Other books will need their own reference translations, chosen per book.
 
 ## Selection criteria (PROPOSED)

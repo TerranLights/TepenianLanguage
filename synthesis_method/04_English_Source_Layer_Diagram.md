@@ -1,6 +1,6 @@
 # The developer's diagram of English's source layers
 
-**Status: the developer's own analysis, recorded as the developer's reading, not a research finding.** Recorded 2026-10-27. It is an input to the layering table (`02_Layering_Table.md`, canon item C-7 Layering by register and domain); it is not a rule for how Tepenian Hawaiian assigns its sources.
+**Status: the developer's own analysis, recorded as the developer's reading, not a research finding.** Recorded 2026-10-27. It is an input to the layering table (`02_Layering_Table.md`, canon item C-7 Layering by register and domain); it is not a rule for how the Tepenian language assigns its sources.
 
 ## Where the diagram is
 - Original (the developer's whiteboard photo, in the `slang-synthesis` repo; referenced by path, not copied here): `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/slang-synthesis/supplementary_diagrams/consolidated English grammar diagrams/965501_541169842665867_1727234691_o_541169842665867.jpg`. It is the panel with four labeled boxes in the middle right of a whiteboard that also holds conditionals and voices.
@@ -34,17 +34,17 @@ A layer is not just a stock of words. It is **how a language uses different ling
 
 The developer's point is that these approaches **permeate every area of English**, not just its vocabulary. (My note: English allows both forms in many cases and the preference is a strong default, not an absolute rule; the developer's statement is the default tendency. RQ-B8 checks this against evidence on English genitive choice.)
 
-**For Tepenian Hawaiian.** Each contributing source language causes the language to approach a particular topic or area in its own way, the way English does. The topics and areas Middle Hawaiian "thinks" about **will probably not line up one-to-one with English's**, though some may. So:
-- The layering table's rows should not be copied from English's areas (formal register, mental contemplation, common core). They should come from the topics and areas where Tepenian Hawaiian's own sources actually pull it in different directions, found by studying the sources on their own terms. This agrees with the governing rule in the `slang-synthesis` diagram methodology: analyze each language on its own terms, not as English with differences (`supplementary_diagrams/grammar_logic_diagrams/00_Diagram_Notation_and_Methodology.md` in that repo).
+**For the Tepenian language.** Each contributing source language causes the language to approach a particular topic or area in its own way, the way English does. The topics and areas Middle Hawaiian "thinks" about **will probably not line up one-to-one with English's**, though some may. So:
+- The layering table's rows should not be copied from English's areas (formal register, mental contemplation, common core). They should come from the topics and areas where the Tepenian language's own sources actually pull it in different directions, found by studying the sources on their own terms. This agrees with the governing rule in the `slang-synthesis` diagram methodology: analyze each language on its own terms, not as English with differences (`supplementary_diagrams/grammar_logic_diagrams/00_Diagram_Notation_and_Methodology.md` in that repo).
 - A layering row should be able to say both which source governs an area and what way of thinking it brings, including in grammar (for example how possession, definiteness or tense is handled there), not only which words come from where.
 
-**An idea to investigate (developer, 2026-10-27; not a decision).** The animate/inanimate split in English possession may bear on the canon's questions about robots (property versus person). The developer's thought: Tepenian Hawaiian may have separate "areas" for three kinds of referent, **robots, humans, and actual inanimate objects**, each with its own way of thinking in grammar and vocabulary. See RQ-A6 Three-way animacy: robots, humans, objects and Q-13 Grammatical classing of robots, humans and objects.
+**An idea to investigate (developer, 2026-10-27; not a decision).** The animate/inanimate split in English possession may bear on the canon's questions about robots (property versus person). The developer's thought: the Tepenian language may have separate "areas" for three kinds of referent, **robots, humans, and actual inanimate objects**, each with its own way of thinking in grammar and vocabulary. See RQ-A6 Three-way animacy: robots, humans, objects and Q-13 Grammatical classing of robots, humans and objects.
 
-**Caution (repo rule 6, no national stereotypes).** The diagram describes how layers of English vocabulary function, in the developer's account. It says nothing about the character of the people who speak the source languages, and a layering row for Tepenian Hawaiian must not be argued from the character of a people.
+**Caution (repo rule 6, no national stereotypes).** The diagram describes how layers of English vocabulary function, in the developer's account. It says nothing about the character of the people who speak the source languages, and a layering row for the Tepenian language must not be argued from the character of a people.
 
 ## Open points
 1. Confirm the reading of the shapes above.
 2. ~~Does the diagram claim these relationships hold for the whole layer, or for typical words in it?~~ Answered 2026-10-27: they are ways of approaching topics that reach grammar as well as vocabulary (see above); how far they hold for every word is not stated.
-3. Which of the four relationships, if any, should apply to how Tepenian Hawaiian layers its own sources? (Open for the Phase 4 layering table.)
+3. Which of the four relationships, if any, should apply to how the Tepenian language layers its own sources? (Open for the Phase 4 layering table.)
 4. Whether the developer wants the redraw checked against the original (a task for the `slang-synthesis` repo).
-5. Which areas of Tepenian Hawaiian are "thought about" by which source, to be found from the sources and not taken from English's areas.
+5. Which areas of the Tepenian language are "thought about" by which source, to be found from the sources and not taken from English's areas.

@@ -1,4 +1,6 @@
-# Tepenian Hawaiian — start here
+# Tepenian Language — start here
+
+*Formerly named TepenianHawaiian (renamed 2026-11-01, D-24 Repo renamed Tepenian Language). Decisions logged before the rename keep their original wording.*
 
 **What this repo is.** The research, synthesis and record of **Modern Hawaiian** as it is spoken in the Tepenian universe: a complete language that takes shape over the ~500 years between the Great War (2083) and the Falkland Treaty (2564), starting as a pidgin of English, Japanese and Tagalog on the islands of Hawaii, and becoming the international robot language and then the national language of the Tepenian Federation. It is synthesized as **its own complete language**, not studied or analyzed for slang. (Slang built on top of it is the job of the sibling repo, `slang-synthesis`; see `INTERFACES.md`.)
 

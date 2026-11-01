@@ -1,5 +1,7 @@
-# Tepenian Hawaiian
-a centralized repo for collecting, analyzing, and re-synthesizing data for Tepenian Hawaiian from across languages (notably English, Japanese, and others)
+# Tepenian Language
+a centralized repo for collecting, analyzing, and re-synthesizing data for the Tepenian language (Hawaiian, which becomes Tepenian) from across languages (notably English, Japanese, and others)
+
+*Formerly named TepenianHawaiian (renamed 2026-11-01, D-24 Repo renamed Tepenian Language).*
 
 ## Project Purpose
 
