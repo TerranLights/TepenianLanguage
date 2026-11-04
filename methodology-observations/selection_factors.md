@@ -26,7 +26,7 @@ This follows what real contact showed: Siegel (2000) argues that the Cantonese s
 1. *Size of the effect.* It depends on how fundamental the feature is to the language. The more fundamental the functionality, the more a reinforcement or a conflict counts.
 2. *When Cantonese and Mandarin disagree with each other.* The result is only a partial increase, not a full one. (Reading to confirm: one of them operates similarly and the other does not; if both are in conflict, the strength goes down as in the basic rule.)
 3. *What counts as "operating similarly."* All three: the same surface form, the same function, and the same mechanism. More fundamentally, the same sort of function and/or mechanism; a matching surface form alone counts for less than a matching function or mechanism.
-4. *Other reinforcers.* None. This applies to Chinese only. Portuguese stays excluded with no reinforcing role (D-10 Portuguese excluded as a source).
+4. *Other reinforcers.* None. This applies to Chinese only.
 
 **Still open:**
 - How to judge "how fundamental" a feature is (for example whether core grammar such as word order and tense/aspect counts as most fundamental and peripheral vocabulary as least) and how the judgment is recorded, so two derivations treat the same kind of feature the same way.

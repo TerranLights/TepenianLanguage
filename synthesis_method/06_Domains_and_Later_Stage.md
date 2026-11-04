@@ -30,10 +30,11 @@
 | Kazakh | none yet | Mawson, Temirötkel |
 | West Slavic (mainly Polish) | none yet | the Intermarium bloc, centered on Poland, in the immigration composition |
 | Italian | none yet | Santa Luce (Italy) |
+| Portuguese | none yet | Brazil's presence in Tepenia along and around the Palmer Peninsula (developer, 2026-11-03); the GDD's `Official_Population_Census.md` and several city files list Brazil in a Significant or Notable tier, not yet mapped to which cities are on the Peninsula |
 
 The right-hand column is the first answer to why these languages: each has a documented founding or immigrant presence in the Federation's cities. Sources: `Per-Subnet_Overview_Reference_Data.md` (section 2), `Cities/Founding_Register.md` and `Cities/Upper_Earth_Immigration_Composition.md` in the Inner Tepenia GDD (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/`), read 2026-10-31. Census I (pre-war, Second Interwar) totals 32,026,600 people in seven units, of whom 16,403,077 are robots and 15,623,523 are humans. This column is only the cities' composition; the founding register itself says a founding nation names the starting stock, never the culture.
 
-**Two things the Federation specs raise (see Q-16):** French (about 35M) and Brazil (about 17M, Portuguese-speaking) sit in the same immigration table at a level above several of the languages on the developer's list, and neither is on it. Portuguese was excluded for the pidgin stage on Hawaii's demographics (D-10 Portuguese excluded as a source); the later stage is justified by different populations. Developer's answer (2026-10-31): it had not been considered; whether they are added depends on their presence in Tepenia, still to be checked (RQ-D3). Weights at this stage, and whether languages bring grammar or only vocabulary, are not yet figured out.
+**Two things the Federation specs raise (see Q-16):** French (about 35M) and Brazil (about 17M, Portuguese-speaking) sit in the same immigration table at a level above several of the languages on the developer's list, and neither was on it. Developer's answer (2026-10-31): they had not been considered; whether they are added depends on their presence in Tepenia (RQ-D3). Update 2026-11-03: Portuguese is a later-era language, because of Brazil's presence along and around the Palmer Peninsula (D-10 Portuguese: a later-era language); French is still to be checked. Weights at this stage, and whether languages bring grammar or only vocabulary, are not yet figured out.
 
 ## The cohesion goal (D-20 Cohesion: the language reads as one language)
 The developer's aim for later-era Tepenian is the state English is in: its vocabulary comes from nearly every language English has ever drawn on, yet a sentence does not read as a mixture. The developer's test sentence:
@@ -48,3 +49,4 @@ Q-15 Language timeline details and Q-16 Later-stage sources: criteria and gaps.
 ## Revision history
 - 2026-10-31: recorded from `to-be-integrated/components.txt` and the developer's answers; Federation presence column added from the GDD specs.
 - 2026-10-31 (later): developer's answers on French and Portuguese, weights, and the two targets (D-21) added.
+- 2026-11-03: developer ruled that Portuguese is a later-era language (Brazil's presence along and around the Palmer Peninsula); Portuguese row added to the stage 2 table (D-10 Portuguese: a later-era language). French is still to be checked (RQ-D3).

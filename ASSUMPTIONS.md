@@ -43,7 +43,7 @@ The future cannot be predicted in enough detail to derive a language from it, so
 - **Open points (to settle with the developer):**
   1. *What the percentage measures.* Overall influence, or vocabulary share, or grammar, or sound system? These can differ a lot (for example a language might supply many words and little grammar). Until settled, the weights mean "overall rough influence."
   2. *Departure from the sourced baseline.* Home-language shares among non-English speakers in 2019-2023 were Tagalog 16.9%, Ilocano 16.6%, Japanese 11.2%, Spanish 7.8%, Korean 4.3% (see the demographics baseline below), and 74.9% of residents speak only English at home. The weights give Japanese much more than its present share and English much less. The reason should be recorded (for example cultural influence, or the pidgin's formation after the Great War), since this is a deliberate departure from raw demographics.
-  3. *What "other" means.* It cannot include Portuguese (D-10 Portuguese excluded as a source) or Chinese (D-11 Chinese excluded as a source). Candidates, if any, are still to be named (for example Okinawan, Samoan, Chuukese, Marshallese).
+  3. *What "other" means.* It cannot include Chinese (D-11 Chinese excluded as a source). Candidates, if any, are still to be named (for example Okinawan, Samoan, Chuukese, Marshallese).
   4. *Role labels.* The roster's role words (core, supplementary) have not been reassigned to match these weights. Ilocano is marked core in the roster as of 2026-10-21 pending confirmation.
 - **Affects:** `contributing_languages/README.md` (roles), the layering table, and every weighted choice in the lexicon and grammar.
 
